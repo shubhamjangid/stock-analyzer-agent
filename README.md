@@ -33,7 +33,7 @@ A comprehensive Python-based AI agent for evaluating stock portfolios using Lang
 ## 🚀 Setup Instructions
 
 ### Step 1: Clone and Setup Project
-### Step 3: Configure Environment Variables
+### Step 2: Configure Environment Variables
 
 Create a `.env` file in the project root:
 Get the news API from (https://newsapi.org/);
