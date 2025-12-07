@@ -62,4 +62,6 @@ python main.py --tickers RELIANCE.NS TCS.NS
 python main.py --tickers RELIANCE.NS TCS.NS --output portfolio_report.md
 ```
 
+**Note:** This project is provided as-is for educational and research purposes; Invest at your own risk.
+
 **Happy analyzing!** 📈
