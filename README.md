@@ -30,23 +30,13 @@ A comprehensive Python-based AI agent for evaluating stock portfolios using Lang
 2. **Synthesize Analysis**: Prepares data for LLM processing
 3. **Generate Verdict**: Uses a LLM to analyze and generate recommendations
 
-## 📋 Requirements
-
-### System Requirements
-- Python 3.9+
-- pip or uv package manager
-
-### API Keys Required
-1. **OpenAI API Key**: For GPT-4 access
-2. **News API Key**: For real-time news fetching (https://newsapi.org/); Need to integrate a more reliable source
-3. **LangSmith API Key**: For tracing
-
 ## 🚀 Setup Instructions
 
 ### Step 1: Clone and Setup Project
 ### Step 3: Configure Environment Variables
 
 Create a `.env` file in the project root:
+Get the news API from (https://newsapi.org/);
 
 ```
 OPENAI_API_KEY=API key here
